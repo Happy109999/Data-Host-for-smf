@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Owncast-EPG">
+
+  <channel id="owncast.live">
+    <display-name>Henry Live chanle</display-name>
+  </channel>
+
+  <programme start="20260120185000 +1300" stop="20260126060000 +1300" channel="owncast.live">
+    <title>Live Stream</title>
+    <desc>Hennry live tv</desc>
+  </programme>
+
+</tv>
