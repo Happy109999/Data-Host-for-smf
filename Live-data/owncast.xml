@@ -6,10 +6,11 @@
   </channel>
 
   <!-- 10-year continuous program -->
-  <programme start="20260121000000 +1300" stop="20360121000000 +0000" channel="livestream">
+  <programme start="20260121000000 +0000" stop="20360121000000 +0000" channel="livestream">
     <title>Henry TV Livetitle>
     <desc>Henry live tv/desc>
   </programme>
 
 </tv>
+
 
