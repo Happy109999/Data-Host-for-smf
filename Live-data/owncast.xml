@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="nginx">
+<tv generator-info-name="Permanent Live Stream">
 
-  <channel id="Happy1099.live">
-    <display-name>Henry Live</display-name>
-  <programme>
-    <programme start="20260121151200 +1300" stop="20210121152000 +1300" channel="Happy1099.live">
-    <title>Test Broadcast</title>
-    <desc>A test broadcast</desc>
+  <channel id="livestream">
+    <display-name>My Live Stream</display-name>
+  </channel>
+
+  <!-- 10-year continuous program -->
+  <programme start="20260121000000 +13000" stop="20360121000000 +0000" channel="livestream">
+    <title>Henry TV Livetitle>
+    <desc>Henry live tv/desc>
   </programme>
 
 </tv>
-
-
-
-
-
-
-
-
